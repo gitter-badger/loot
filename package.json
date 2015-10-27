@@ -14,5 +14,8 @@
     "routes": "^2.1.0",
     "sanitize-filename": "^1.4.5",
     "trumpet": "^1.7.2"
+  },
+  "devDependencies": {
+    "benchmark": "^1.0.0"
   }
 }
